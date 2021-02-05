@@ -2,7 +2,7 @@
 Slack bot using AWS which returns data from DynamoDB
 
 ## SlackBot Diagram
-![SlackBot Diagram](/slackbot-diagram.png)
+![SlackBot Diagram](/diagram.png)
 
 ## SlackBot In Use
 ![DynamoDB Image](/slackbot-chat.png)
